@@ -1,2 +1,2 @@
-# Demo-on-automated-fact-checking-using-S-BERT
-In this demo, we illustrate the use of Semantic Search + Recognising Textual Entailment with Gradio to build an automated fact checking tool
+## Demo on building an automated fact checking tool using S-BERT
+In this demo, we illustrate the possibility of using of Semantic Search + Recognising Textual Entailment with Gradio to build an automated fact checking tool
